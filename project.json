@@ -1,0 +1,58 @@
+{
+  "name": "各节点用法测试",
+  "description": "各节点用法测试",
+  "main": "Try Catch 异常处理.xaml",
+  "dependencies": {
+    "FanHan_RPA": "[1.0.12]",
+    "UiPath.Excel.Activities": "[2.9.3]",
+    "UiPath.FTP.Activities": "[1.0.7495.12930]",
+    "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.PDF.Activities": "[3.3.0]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[20.10.6]",
+    "UiPath.Word.Activities": "[1.5.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.2.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Try Catch 异常处理.xaml",
+      "uniqueId": "310cc4b4-d68a-4401-bb48-77a4789556c4",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
